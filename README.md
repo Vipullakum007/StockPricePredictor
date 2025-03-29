@@ -66,11 +66,14 @@ streamlit run app.py
 ---
 
 ## 🖥️ Screenshots
-### **📌 Main Dashboard**
-![App Screenshot](https://your-screenshot-link.com/main.png)
+### **📌 Home Page**
+![App Screenshot](./assets/home.png)
 
-### **📈 Stock Price Trends**
-![Trends](https://your-screenshot-link.com/trends.png)
+### **📈 Stock Close Price Chart **
+![Close chart](./assets/closechart.png)
+
+### **📈 Prediction vs Original Chart **
+![Prediction chart](./assets/predictionchart.png)
 
 ---
 
